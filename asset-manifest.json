@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Techolution-assignment/static/css/main.68d73ebf.chunk.css",
+    "main.js": "/Techolution-assignment/static/js/main.5c9fff51.chunk.js",
+    "main.js.map": "/Techolution-assignment/static/js/main.5c9fff51.chunk.js.map",
+    "runtime-main.js": "/Techolution-assignment/static/js/runtime-main.041dfb7e.js",
+    "runtime-main.js.map": "/Techolution-assignment/static/js/runtime-main.041dfb7e.js.map",
+    "static/js/2.fd1ba824.chunk.js": "/Techolution-assignment/static/js/2.fd1ba824.chunk.js",
+    "static/js/2.fd1ba824.chunk.js.map": "/Techolution-assignment/static/js/2.fd1ba824.chunk.js.map",
+    "index.html": "/Techolution-assignment/index.html",
+    "precache-manifest.2cdee81b3ca32dacc57399e33ffe2b5c.js": "/Techolution-assignment/precache-manifest.2cdee81b3ca32dacc57399e33ffe2b5c.js",
+    "service-worker.js": "/Techolution-assignment/service-worker.js",
+    "static/css/main.68d73ebf.chunk.css.map": "/Techolution-assignment/static/css/main.68d73ebf.chunk.css.map",
+    "static/js/2.fd1ba824.chunk.js.LICENSE.txt": "/Techolution-assignment/static/js/2.fd1ba824.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.041dfb7e.js",
+    "static/js/2.fd1ba824.chunk.js",
+    "static/css/main.68d73ebf.chunk.css",
+    "static/js/main.5c9fff51.chunk.js"
+  ]
+}
